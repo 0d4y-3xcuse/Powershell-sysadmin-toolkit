@@ -1,6 +1,6 @@
 # PowerShell Sysadmin Toolkit
 
-A collection of PowerShell scripts for Active Directory administration, user lifecycle management, and IT operations — built for Tier 1/2 Sysadmin workflows.
+A collection of PowerShell scripts for Active Directory administration, user lifecycle management, and IT operations. Built for Tier 1/2 Sysadmin workflows.
 
 ## Structure
 
