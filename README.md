@@ -39,6 +39,6 @@ A collection of PowerShell scripts for Active Directory administration, user lif
 - Run as Domain Admin or account with appropriate rights
 
 ## Author
-**Ebrima Jallow** — IT Support & Sysadmin | Worcester, MA
+**Ebrima Jallow** IT Support & Sysadmin | Worcester, MA
 - [LinkedIn](https://linkedin.com/in/ebrima-jallow1)
 - [Active Directory Home Lab](https://github.com/pischek/active-directory-home-lab)
