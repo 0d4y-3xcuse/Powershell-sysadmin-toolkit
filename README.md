@@ -33,6 +33,14 @@ A collection of PowerShell scripts for Active Directory administration, user lif
 | `Get-LoggedOnUser.ps1` | Finds who is logged into a remote machine |
 | `Clear-TempFiles.ps1` | Cleans temp files to free disk space and fix performance |
 
+
+### Patch Management
+| Script | Description |
+|---|---|
+| `Get-PatchStatus.ps1` | Checks Windows Update status and pending patches across machines |
+| `Invoke-WindowsUpdate.ps1` | Triggers Windows Update installation remotely with category filtering |
+| `Get-WSUSReport.ps1` | Pulls full patch compliance report from WSUS server with HTML export |
+
 ## Requirements
 - PowerShell 5.1 or later
 - RSAT (Remote Server Administration Tools) for AD scripts
